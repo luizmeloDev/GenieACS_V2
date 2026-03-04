@@ -338,13 +338,13 @@ Antes de adicionarmos os provisionamentos para cada modelo que será utilizado, 
 #### O segundo que iremos editar é o provision `inform`.
 
 - Copie as informações que está no projeto dentro da pasta
-    /opt/genieacs/ext/provisions/inform ou no git https://github.com/redetuxnet/GenieACS_V2/tree/main/provisions
+    /opt/genieacs/ext/provisions/inform ou no git https://github.com/luizmeloDev/GenieACS_V2/tree/main/provisions
 - Dentro do GenieACS navegue até admin -> provisions
 - Clique em show no provision com o nome inform e apague tudo que está dentro e cole o contéudo copiado do arquivo default do projeto
 
 #### Criando o presets e provisionamentos (existe um arquivo para cada modelo de roteador/ont)**
 
-- Escolha qual modelo que irá utilizar e Copie as informações que está no projeto dentro da pasta `/opt/genieacs/ext/provisions/` ou no git https://github.com/redetuxnet/GenieACS_V2/tree/main/provisions.
+- Escolha qual modelo que irá utilizar e Copie as informações que está no projeto dentro da pasta `/opt/genieacs/ext/provisions/` ou no git https://github.com/luizmeloDev/GenieACS_V2/tree/main/provisions.
 
 - Dentro do GenieACS navegue até `admin` -> `provisions`.
 - Clique em new no campo script coloque o codigo contido no arquivo escolhido e no nome digite o nome do arquivo escolhido e salve.
