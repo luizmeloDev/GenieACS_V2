@@ -299,7 +299,7 @@ Depois disso, será redirecionado para a página de login, onde o usuário e sen
 ### 9º Criando Virtual Parameters
 Nesse momento iremos criar 4 virtuais parametros que irá auxiliar nos scritps e na integração com o Hubsoft.
 
-Os scripts dos Virutal Parameters estão localizado em /opt/genieacs/ext/virtual_parameters ou no git <https://github.com/redetuxnet/GenieACS_V2/tree/main/virtual_parameters>
+Os scripts dos Virutal Parameters estão localizado em /opt/genieacs/ext/virtual_parameters ou no git <https://github.com/luizmeloDev/GenieACS_V2/tree/main/virtual_parameters>
 
 Acesse o GenieACS e navegue até `admin` -> `Virtual Parameters`
 
