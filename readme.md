@@ -331,7 +331,7 @@ Antes de adicionarmos os provisionamentos para cada modelo que será utilizado, 
 
 #### O primeiro que iremos editar é o provision `default`.
 
-- Copie as informações que estão no projeto dentro da pasta `/opt/genieacs/ext/provisions/default` ou no git https://github.com/redetuxnet/GenieACS_V2/tree/main/provisions.
+- Copie as informações que estão no projeto dentro da pasta `/opt/genieacs/ext/provisions/default` ou no git https://github.com/luizmeloDev/GenieACS_V2/tree/main/provisions.
 
 - Dentro do GenieACS navegue até admin -> provisions. Clique em show no provision com o nome default e apague tudo que está dentro e cole o contéudo copiado do arquivo default do projeto
 
