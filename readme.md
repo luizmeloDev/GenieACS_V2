@@ -273,7 +273,7 @@ apt install git
 Clonando os arquivos do github para a pasta ext do genieacs:
 
 ```shell
-git clone https://github.com/redetuxnet/GenieACS_V2.git /opt/genieacs/ext
+git clone https://github.com/luizmeloDev/GenieACS_V2.git /opt/genieacs/ext
 ```
 
 Precisamos instalar duas dependências para o script de integração funcionar. Iremos instalar os pacotes `request` e a `fs`.
